@@ -1,4 +1,5 @@
-book_filename: "bookdown-demo"
+output_dir: "docs"
+book_filename: "amr-data-analysis-with-r"
 language:
   ui:
     chapter_name: "Chapter "
