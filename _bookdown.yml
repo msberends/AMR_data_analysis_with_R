@@ -1,5 +1,5 @@
 output_dir: "docs"
-book_filename: "amr-data-analysis-with-r"
+book_filename: "AMR-data-analysis-with-R"
 language:
   ui:
     chapter_name: "Chapter "
